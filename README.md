@@ -1,1 +1,1 @@
-# nim-error-utils
+# nim-errors
